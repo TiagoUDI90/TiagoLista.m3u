@@ -1,0 +1,639 @@
+#EXTM3U
+
+################################### BBB 17
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 CAM 1
+
+http://5.79.68.138:8081/look/bbb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 CAM 2
+
+http://tv.ec.cx:1935/8d1WSSb0/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 CAM 3
+
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 CAM 4
+
+http://95.211.149.215:8081/look/bbb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+################################## Religiosos 
+
+#EXTINF:-1 tvg-id="Rede Vida [Brazil]" tvg-logo="http://s20.postimg.org/7qnqfhfal/redevida.png" group-title="Religiosos",Rede Vida
+
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/m71t2kq0d/tvaparecida.png" group-title="Religiosos",TV Aparecida
+
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+################################# Outros canais
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PB HD
+
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
+
+http://95.211.149.215:8081/look/sptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+################################################################################ Esportes
+
+
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://95.211.149.215:8081/look/pfc/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 9
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/evsil85gt/Fish_TV.png" group-title="Esportes",Fish TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
+http://5.79.68.138:8081/look/espn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
+
+
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo
+http://5.79.68.138:8081/look/ei/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="EI Maxx [Brazil]" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Max
+http://5.79.68.138:8081/look/eimax/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="EI Maxx 2 [Brazil]" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Max 2
+
+#EXTINF:-1 tvg-id="WooHoo [Brazil]" tvg-logo="http://s20.postimg.org/qh7qq1x9p/Woohoo.png" group-title="Esportes",Woohoo
+
+#EXTINF:-1 tvg-id="Canal Off [Brazil]" tvg-logo="http://s20.postimg.org/bzaji25yl/Canal_Off.png" group-title="Esportes",Off
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/duwv9udv1/Motorsport_TV.png" group-title="Esportes",Motorsport TV
+http://motorsport.hopto.org:8080?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/t64tmk4uh/REALMADRITV.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",NBA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/8q1kgsdxf/200px_Eurosport_Logo_svg.png" group-title="Esportes",Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="Esportes",Band Sports
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://95.211.149.215:8081/look/combate/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
+http://5.79.68.138:8081/look/sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2
+http://5.79.68.138:8081/look/sportv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
+
+http://5.79.68.138:8081/look/sportv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+######################################################### Infantis
+#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+
+http://tv.ec.cx:1935/BY8EMBQP/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
+
+
+#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
+
+
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
+
+
+#EXTINF:-1 tvg-id="Cartoon Network [Brazil]" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
+
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
+
+
+#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
+
+http://5.79.68.138:8081/look/discoverykids/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+################################################################################# Filmes e Series
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries",Cine Sky
+
+http://78.129.184.15:5509/streaming/stream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO
+
+
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2
+
+
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
+
+
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature
+
+
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-logo="http://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family
+
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s31.postimg.org/h4q35bctn/max.png" group-title="Filmes e Séries",Max
+
+
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",Max Prime
+
+
+#EXTINF:-1 tvg-id="Max up HD [Brazil]" tvg-logo="http://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries",Max Up
+
+
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries",Cinemax
+
+
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action
+
+
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+
+
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
+
+
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun
+
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Filmes e Séries",Telecine Cult
+
+
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="Filmes e Séries",RBX
+
+
+#EXTINF:-1 tvg-id="i-Sat [Brazil]" tvg-logo="http://s21.postimg.org/h6grm4s87/I_sat.png" group-title="Filmes e Séries",I sat
+
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s15.postimg.org/tzhnubsmz/axn.png" group-title="Filmes e Séries",AXN
+
+
+#EXTINF:-1 tvg-id="AMC [Brazil]" tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg" group-title="Filmes e Séries",AMC
+
+
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",Fox
+
+http://78.129.184.15:5509/streaming/stream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="FX [Brazil]" tvg-logo="http://s20.postimg.org/pcf1oef0p/image.png" group-title="Filmes e Séries",FX
+
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="Filmes e Séries",Megapix
+
+http://5.79.68.138:8081/look/megapix/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-logo="http://s31.postimg.org/uu398livf/space.png" group-title="Filmes e Séries",Space
+
+
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-logo="http://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries",TBS
+
+
+#EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-logo="http://s20.postimg.org/jhgria3yh/Comedy_Central.png" group-title="Filmes e Séries",Comedy Central
+
+
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-logo="http://s27.postimg.org/ak3hno8eb/TCM.png" group-title="Filmes e Séries",TCM
+
+
+#EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="Filmes e Séries",Syfy
+
+
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+
+
+#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-logo="http://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Sony
+
+
+#EXTINF:-1 tvg-id="TNT Séries [Brazil]" tvg-logo="http://s11.postimg.org/ze3yz0tir/TNT_S_ries.png" group-title="Filmes e Séries",TNT Séries
+
+
+#EXTINF:-1 tvg-id="TNT [Brazil]" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
+
+
+#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-logo="http://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries",Universal
+
+
+#EXTINF:-1 tvg-id="Paramount Channel [Brazil]" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount
+
+
+#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-logo="http://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries",Warner
+
+
+################################################################################# Séries 24 Horas
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s2.postimg.org/4v3o6map5/mr-bean.png" group-title="Séries 24 Horas",Mr. Bean
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/pp2b07oul/LOST.png" group-title="Séries 24 Horas",Lost
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/71u76azrh/PRISONBREAK.png" group-title="Séries 24 Horas",Prison Break
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/svglffi1z/Friends.png" group-title="Séries 24 Horas",Friends
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/u5unyw32j/GLEE.png" group-title="Séries 24 Horas",Glee
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/ibdq9rq19/DRAKE_E_JOSH.png" group-title="Séries 24 Horas",Drake e Josh
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/ppygoemj1/CASTELO_RA_TIM_BUM.png" group-title="Séries 24 Horas",Castelo Rá-Tim-Bum!
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/ydz3ii07h/TWO_ANDAHALF_MEN.png" group-title="Séries 24 Horas",Two And a Half Men
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/cpmpryzyl/BIGBANGTHEORY.png" group-title="Séries 24 Horas",The Big Bang Theory
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5p3bcxnkd/BREAKING_BAD.png" group-title="Séries 24 Horas",Breaking Bad
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/d6cis5d3h/CHAVES.png" group-title="Séries 24 Horas",Chaves
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/f88esnlot/CHAPOLIN.png" group-title="Séries 24 Horas",Chapolin
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5rn6zrr7x/CRIMINAL_MINDS.png" group-title="Séries 24 Horas",Criminal Minds
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/4145ya9ot/CHUNCK.png" group-title="Séries 24 Horas",Chuck
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/t8f1yjcst/CSI.png" group-title="Séries 24 Horas",CSI
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5t1q6xifh/EUAPATROAEASCRIANCAS.png" group-title="Séries 24 Horas",Eu, a Patroa e as Crianças
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="Séries 24 Horas",Gossip Girl
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/4vvay26x9/HEROES.png" group-title="Séries 24 Horas",Heroes Reborn
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="Séries 24 Horas",iCarly
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="Séries 24 Horas",Kenan e Kel
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5s1fodcb1/SMALLVILLE.png" group-title="Séries 24 Horas",Smallville
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/iai14y9al/SUPERNATURAL.png" group-title="Séries 24 Horas",Supernatural
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="Séries 24 Horas",Todo Mundo Odeia o Chris
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5e4p2ihl9/UMMALUCONOPEDA_O.png" group-title="Séries 24 Horas",Um Maluco no Pedaço
+
+
+################################################################################# Notícias
+
+
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://s17.postimg.org/3ze7gkgm7/recordnews.png" group-title="Notícias",Record News
+
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://s17.postimg.org/3ze7gkgm7/recordnews.png" group-title="Notícias",Record News HD
+
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-logo="http://s20.postimg.org/vv5uahrn1/globonews.png" group-title="Notícias",Globo News
+
+http://5.79.68.138:8081/look/globonews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="Band News [Brazil]" tvg-logo="http://s20.postimg.org/im298ctyl/Band_News.png" group-title="Notícias",Band News
+
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/xn3j535wh/Bloomberg.png" group-title="Notícias",Bloomberg
+
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/551h9ah1p/GV_News.png" group-title="Notícias",GV News
+
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/7x7t1ftat/TV_Ponta_Negra_News.png" group-title="Notícias",TV Ponta Negra News
+
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="Notícias",TV Clima
+
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews
+
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Portugal
+
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Germany
+
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Españo
+l
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews France
+
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Itália
+
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Notícias",ABC News
+
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/7s15r30g3/o4ca5xo.png" group-title="Notícias",Sky life TG24
+
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/lhx5r5a57/220px_CBS_News_svg.png" group-title="Notícias",CBS News
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/3sf8gytrf/lifenews.png" group-title="Notícias",LifeNews
+http://tv.life.ru/lifetv/720p/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/o22b3mr6d/210px_NBC_News_2011_svg.png" group-title="Notícias",NBC News
+http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/tx501dg7v/logo_TVI.png" group-title="Notícias",TVI 1
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/tx501dg7v/logo_TVI.png" group-title="Notícias",TVI 2
+
+http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-2/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" group-title="Notícias",+TVI
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s30.postimg.org/qe6x5huwh/logo.png" group-title="Notícias",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/spdx9h40l/image.jpg" group-title="Notícias",Porto Canal
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/b2mzsakm5/photo.jpg" group-title="Notícias",Geeak.tv
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/6meui6yaf/logo_tv_mana_1.png" group-title="Notícias",Tv Maná
+http://195.22.19.179:1935/manasat/manasat2/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP 1
+http://www.iptvsaga.com/play/tv3/0029.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP 2
+http://www.iptvsaga.com/play/tv3/0028.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP África
+http://www.iptvsaga.com/play/tv3/0026.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP Madeira
+http://www.iptvsaga.com/play/tv3/0025.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP Açores
+http://www.iptvsaga.com/play/tv3/0024.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP Memória
+http://www.iptvsaga.com/play/tv3/0023.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/4jnml860r/rtp_negativo_vert_RGB1.png" group-title="Notícias",RTP Internacional
+http://www.iptvsaga.com/play/tv3/0022.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static01.mediaite.com/med/wp-content/uploads/2015/06/Fox_News-2.svg_.png" group-title="Notícias",Fox News
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/pr8qe97at/CNN.png" group-title="Notícias",CNN Internacional
+
+################################################################################# Documentários
+
+#EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-logo="http://s20.postimg.org/y64l1rxrh/Lifetime.png" group-title="Documentários",Lifetime
+
+#EXTINF:-1 tvg-id="TruTV [Brazil]" tvg-logo="http://s20.postimg.org/8om6i6g19/Tru_TV.png" group-title="Documentários",TruTV
+
+#EXTINF:-1 tvg-id="Arte 1 [Brazil]" tvg-logo="http://s27.postimg.org/fk9cp3g7n/Arte_1.png" group-title="Documentários",Arte 1
+
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png" group-title="Documentários",Fox Life
+
+#EXTINF:-1 tvg-id="A E [Brazil]" tvg-logo="http://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Documentários",A&E
+
+#EXTINF:-1 tvg-id="TLC [Brazil]" tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png" group-title="Documentários",TLC
+
+#EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-logo="http://s29.postimg.org/vn86hvuef/E_Entertainment.png" group-title="Documentários",E!
+
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-logo="http://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",Animal Planet
+
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentários",Nat Geo
+
+#EXTINF:-1 tvg-id="Nat Geo Wild [Brazil]" tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="Documentários",Nat Geo Wild
+
+#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="Documentários",History
+
+#EXTINF:-1 tvg-id="H2 [Brazil]" tvg-logo="http://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2
+
+#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="Documentários",Discovery Channel
+http://5.79.68.138:8081/look/discovery/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-logo="http://s20.postimg.org/6nnb2ofwp/Discovery_Turbo.png" group-title="Documentários",Discovery Turbo
+
+#EXTINF:-1 tvg-id="Investigação Discovery [Brazil]" tvg-logo="http://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",ID - Investigação Discovery
+
+#EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png" group-title="Documentários",Discovery Science
+
+#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="Documentários",Discovery Home Health
+
+#EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization
+
+#EXTINF:-1 tvg-id="Discovery HD Theater [Brazil]" tvg-logo="http://s20.postimg.org/hypyr1mrt/Discovery_Theater.png" group-title="Documentários",Discovery Theater
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/kb2k2dor1/Discovery_World.png" group-title="Documentários",Discovery World
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/5kqkuwbth/hd_showcase_White_Bkg_lrg.png" group-title="Documentários",Discovery Showcase
+
+################################################################################# Internacionais
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png" group-title="Internacionais",Fox Life HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/zdrvjjwp9/fox_comedy_blue_330X182.png" group-title="Internacionais",Fox Comedy
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/r6zvrz6ml/0049909.png" group-title="Internacionais",Fox Crime HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/xcmnqpjgj/FOX_Movies_Star_Sat.png" group-title="Internacionais",Fox Movies
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s23.postimg.org/7petbg17f/AXN_White.png" group-title="Internacionais",AXN White HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s23.postimg.org/ylysjrk0r/AXN_Black_Logo.png" group-title="Internacionais",AXN Black HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/rf23rptk7/image.png" group-title="Internacionais",Eurosport 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="Internacionais",Sport TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="Internacionais",Sport TV HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/nzekjb2jh/qpyrpq1470407606.png" group-title="Internacionais",Sport TV 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/q58vdt5zx/Sport_TV3_HD_300x169.png" group-title="Internacionais",Sport TV 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/3ul0du8pp/qypxry1470408244.png" group-title="Internacionais",Sport TV 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/72phqvuzh/vvvqxp1470408443.png" group-title="Internacionais",Sport TV 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2015/09/logo-seo.png" group-title="Internacionais",Cinemundo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2012/10/canais-tv-cine.jpg" group-title="Internacionais",TVSeries HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/u7sbnvkw3/TVC1.png" group-title="Internacionais",TVCine 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/8zen6g6f7/TVC2.png" group-title="Internacionais",TVCine 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/8zen6g6f7/TVC2.png" group-title="Internacionais",TVCine 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/vpdrzfpmr/TVC3.png" group-title="Internacionais",TVCine 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/vpdrzfpmr/TVC3.png" group-title="Internacionais",TVCine 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/mivhc5keb/TVC4.png" group-title="Internacionais",TVCine 4
+
+################################################################################# Variedade e Músicas
+
+#EXTINF:-1 tvg-id="Shoptime [Brazil]" tvg-logo="http://s20.postimg.org/9g60f19rh/TV_Shoptime.png" group-title="Variedade e Músicas",Shoptime
+
+#EXTINF:-1 tvg-id="TV União [Brazil]" tvg-logo="http://s13.postimg.org/h1xp7giif/Tv_Uni_o.png" group-title="Variedade e Músicas",TV União
+http://stmv1.srvstm.com:1935/tvuniao/tvuniao/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s23.postimg.org/6lvqipsjv/CN_AGITOS_ESCOLHIDO.png" group-title="Variedade e Músicas",TV CN Agitos
+http://wsemedia.com:1935/cn01/cn01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s12.postimg.org/81pdogngt/TV_Est_dio_Brasil.png" group-title="Variedade e Músicas",TV Estúdio Brasil
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/slroiro51/Yeeah_TV.jpg" group-title="Variedade e Músicas",Yeeah!
+http://stmv2.srvstm.com/bruno4119/bruno4119/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/cql6nfkx9/G2_PTV.png" group-title="Variedade e Músicas",G2P
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/ct9no0dyl/tvultrafarma.png" group-title="Variedade e Músicas",Ultrafarma
+http://srv9.zoeweb.tv:1935/zw931/smil:zw931.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Mix TV [Brazil]" tvg-logo="http://s20.postimg.org/jbmv7tfnx/Mix_Tv.png" group-title="Variedade e Músicas",Mix TV
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/62qz0nl43/Milk_TV.jpg" group-title="Variedade e Músicas",Milk TV
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/rt5v8yxtj/logo_toptv.png" group-title="Variedade e Músicas",Top TV
+http://209.133.205.130/toptv/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/w29mkr3jb/videoclipes.png" group-title="Variedade e Músicas",TV Music Hits
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/sry7yabe5/virgin_tv_0_11.png" group-title="Variedade e Músicas",Virgin TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/eo7l9k1g3/clipes.png" group-title="Variedade e Músicas",TV Clipes Gospel
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Viva [Brazil]" tvg-logo="http://s20.postimg.org/sgshbu019/viva.png" group-title="Variedade e Músicas",Viva
+
+#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo="http://s20.postimg.org/uvkcw9ga5/gnt.png" group-title="Variedade e Músicas",GNT
+
+#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-logo="http://s20.postimg.org/j8elem1sd/Bis.png" group-title="Variedade e Músicas",Bis
+
+#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="Variedade e Músicas",Multishow
+
+#EXTINF:-1 tvg-id="Canal Brasil [Brazil]" tvg-logo="http://s20.postimg.org/x3yjdlne5/canalbrasil.png" group-title="Variedade e Músicas",Canal Brasil
+
+#EXTINF:-1 tvg-id="Mais Globosat [Brazil]" tvg-logo="http://s29.postimg.org/6033i47yf/Globo_Sat.png" group-title="Variedade e Músicas",Mais Globosat
+
+#EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png" group-title="Variedade e Músicas",MTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/ejuzqf99x/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Variedade e Músicas",Music Box Brazil
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/755ny1ned/primeboxbrazil.png" group-title="Variedade e Músicas",Prime Box Brazil
+
+#EXTINF:-1 tvg-id="Play TV [Brazil]" tvg-logo="http://s27.postimg.org/syz5j2ahf/playtv.png" group-title="Variedade e Músicas",Play TV
+
+#EXTINF:-1 tvg-id="VH1 HD [Brazil]" tvg-logo="http://s11.postimg.org/t6l8d9k0j/VH1.png" group-title="Variedade e Músicas",VH1
+
+#EXTINF:-1 tvg-id="VH1 Mega Hits [Brazil]" tvg-logo="http://s14.postimg.org/5mjy8ugsx/VH1_Mega_Hits.png" group-title="Variedade e Músicas",VH1 Mega Hits
+
+#EXTINF:-1 tvg-id="VH1 Classic [Brazil]" tvg-logo="http://s24.postimg.org/wed1s1ol1/image.png" group-title="Variedade e Músicas",VH1 Classic
+
+#EXTINF:-1 tvg-id="Polishop [Brazil]" tvg-logo="http://s29.postimg.org/s9w9k9orr/polishoptv.png" group-title="Variedade e Músicas",Polishop
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/aykuo57yl/MTV_Live_HD.png" group-title="Variedade e Músicas",MTV Live
